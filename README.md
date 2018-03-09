@@ -3,5 +3,8 @@ A [signature pad](https://github.com/szimek/signature_pad "signature pad")  impl
 # Basic Usage
 ```javascript
 import * as React from "react";
-<SignaturePad onEnd={(event: any, data: string) => this.props.event(data) } />
+import SignaturePad from "./react-typescript-signature-pad";
+
+<SignaturePad
+  onEnd={(event: any, data: string) => this.props.event(data) } />
 ```
