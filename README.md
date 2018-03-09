@@ -1,2 +1,2 @@
 # react-typescript-signature-pad
-A (https://www.google.com "signature pad")  implementation for react written in typescript.
+A [signature pad](https://github.com/szimek/signature_pad "signature pad")  implementation for react written in typescript.
